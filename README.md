@@ -7,7 +7,7 @@ Minecraft(Mod利用版) インストール方法の説明ページ
 ## 1. ダウンロード
 
 ### 1.1. modパックのDL
-- https://drive.google.com/file/d/1r6eYIoAmnN5g71hXfityNOakqKkayeCh/view?usp=sharing
+- https://drive.google.com/file/d/1TOsDWj0yxMJLDpATJP2QbpQrObZRxv-v/view?usp=sharing
 ![modpack](/imgs/img.png)
 上記URLをクリックして，右上の赤丸で囲ったボタンを押してzipファイルをダウンロードしてください。
 
